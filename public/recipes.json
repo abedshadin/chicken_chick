@@ -2,7 +2,7 @@
     {
       "recipe_id": 1,
       "recipe_name": "Spicy Basil Chicken",
-      "recipe_image": "spicy_basil_chicken.jpg",
+      "recipe_image": "https://www.recipetineats.com/tachyon/2017/03/Thai-Chilli-Basil-Chicken_6.jpg?resize=900%2C1260&zoom=0.72",
       "short_description": "A quick stir-fry chicken dish with basil and a spicy kick.",
       "ingredients": [
         "550 g chicken",
@@ -12,13 +12,13 @@
         "50 g chili flakes",
         "30 ml vegetable oil"
       ],
-      "preparing_time": "30 min",
-      "calories": "320 calories"
+      "preparing_time": "30",
+      "calories": "320"
     },
     {
       "recipe_id": 2,
       "recipe_name": "Vegetarian Pasta",
-      "recipe_image": "vegetarian_pasta.jpg",
+      "recipe_image": "https://media.istockphoto.com/id/509409312/photo/whole-wheat-fusilli-pasta-with-vegetables.jpg?s=612x612&w=0&k=20&c=Dwmq0NgYiA7oZcULyZll-AvDA9FW-XWD6sqSWLCnHjE=",
       "short_description": "A delicious pasta dish packed with fresh vegetables.",
       "ingredients": [
         "200 g pasta",
@@ -28,13 +28,13 @@
         "2 cloves garlic",
         "30 ml olive oil"
       ],
-      "preparing_time": "25 min",
-      "calories": "280 calories"
+      "preparing_time": "25",
+      "calories": "280"
     },
     {
       "recipe_id": 3,
       "recipe_name": "Grilled Salmon",
-      "recipe_image": "grilled_salmon.jpg",
+      "recipe_image": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=612x612&w=0&k=20&c=Y8RYbZFcvec-FXMMuoU-qkprC3TUFNiw3Ysoe8Drn6g=",
       "short_description": "A healthy and tasty grilled salmon recipe.",
       "ingredients": [
         "200 g salmon fillet",
@@ -44,13 +44,13 @@
         "1 tsp salt",
         "50 g fresh dill"
       ],
-      "preparing_time": "20 min",
-      "calories": "220 calories"
+      "preparing_time": "20",
+      "calories": "220"
     },
     {
       "recipe_id": 4,
       "recipe_name": "Classic Caesar Salad",
-      "recipe_image": "caesar_salad.jpg",
+      "recipe_image": "https://www.seriouseats.com/thmb/Fi_FEyVa3_-_uzfXh6OdLrzal2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-best-caesar-salad-recipe-06-40e70f549ba2489db09355abd62f79a9.jpg",
       "short_description": "A crisp and creamy Caesar salad with homemade dressing.",
       "ingredients": [
         "150 g romaine lettuce",
@@ -59,13 +59,13 @@
         "2 tbsp Caesar dressing",
         "1 boiled egg"
       ],
-      "preparing_time": "15 min",
-      "calories": "180 calories"
+      "preparing_time": "15",
+      "calories": "180"
     },
     {
       "recipe_id": 5,
       "recipe_name": "Chocolate Chip Cookies",
-      "recipe_image": "chocolate_chip_cookies.jpg",
+      "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQZuXH0wv7SD085f2oWTDYqOGvg758L3t6Q&s",
       "short_description": "Chewy and buttery cookies loaded with chocolate chips.",
       "ingredients": [
         "200 g all-purpose flour",
@@ -75,13 +75,13 @@
         "1 egg",
         "1 tsp vanilla extract"
       ],
-      "preparing_time": "45 min",
-      "calories": "160 calories per cookie"
+      "preparing_time": "45",
+      "calories": "160"
     },
     {
       "recipe_id": 6,
       "recipe_name": "Beef Tacos",
-      "recipe_image": "beef_tacos.jpg",
+      "recipe_image": "https://img.freepik.com/free-photo/mexican-tacos-wooden-table_1147-558.jpg?ga=GA1.1.253709879.1735111941&semt=ais_hybrid",
       "short_description": "Flavorful and juicy beef tacos with fresh toppings.",
       "ingredients": [
         "300 g ground beef",
@@ -91,8 +91,8 @@
         "50 g grated cheddar cheese",
         "30 ml taco sauce"
       ],
-      "preparing_time": "30 min",
-      "calories": "400 calories per serving"
+      "preparing_time": "30",
+      "calories": "400"
     }
   ]
   
