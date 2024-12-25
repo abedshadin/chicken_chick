@@ -1,0 +1,98 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Basil Chicken",
+      "recipe_image": "spicy_basil_chicken.jpg",
+      "short_description": "A quick stir-fry chicken dish with basil and a spicy kick.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "50 g chili flakes",
+        "30 ml vegetable oil"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetarian Pasta",
+      "recipe_image": "vegetarian_pasta.jpg",
+      "short_description": "A delicious pasta dish packed with fresh vegetables.",
+      "ingredients": [
+        "200 g pasta",
+        "150 g zucchini",
+        "100 g cherry tomatoes",
+        "50 g parmesan cheese",
+        "2 cloves garlic",
+        "30 ml olive oil"
+      ],
+      "preparing_time": "25 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "grilled_salmon.jpg",
+      "short_description": "A healthy and tasty grilled salmon recipe.",
+      "ingredients": [
+        "200 g salmon fillet",
+        "2 tbsp lemon juice",
+        "1 tbsp olive oil",
+        "1 tsp black pepper",
+        "1 tsp salt",
+        "50 g fresh dill"
+      ],
+      "preparing_time": "20 min",
+      "calories": "220 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Classic Caesar Salad",
+      "recipe_image": "caesar_salad.jpg",
+      "short_description": "A crisp and creamy Caesar salad with homemade dressing.",
+      "ingredients": [
+        "150 g romaine lettuce",
+        "50 g croutons",
+        "30 g parmesan cheese",
+        "2 tbsp Caesar dressing",
+        "1 boiled egg"
+      ],
+      "preparing_time": "15 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_image": "chocolate_chip_cookies.jpg",
+      "short_description": "Chewy and buttery cookies loaded with chocolate chips.",
+      "ingredients": [
+        "200 g all-purpose flour",
+        "100 g butter",
+        "150 g sugar",
+        "100 g chocolate chips",
+        "1 egg",
+        "1 tsp vanilla extract"
+      ],
+      "preparing_time": "45 min",
+      "calories": "160 calories per cookie"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "beef_tacos.jpg",
+      "short_description": "Flavorful and juicy beef tacos with fresh toppings.",
+      "ingredients": [
+        "300 g ground beef",
+        "6 taco shells",
+        "100 g shredded lettuce",
+        "50 g diced tomatoes",
+        "50 g grated cheddar cheese",
+        "30 ml taco sauce"
+      ],
+      "preparing_time": "30 min",
+      "calories": "400 calories per serving"
+    }
+  ]
+  
